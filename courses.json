@@ -1,0 +1,27 @@
+{
+  "diploma": [
+    {"name": "Diploma of Mechatronics Engineering Technology", "department": "Electrical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics and a Science/Technical subject"},
+    {"name": "Diploma of Engineering Technology (Instrumentation & Control)", "department": "Electrical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics and a Science/Technical subject"},
+    {"name": "Diploma of Electronics Engineering Technology (Computer)", "department": "Electrical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics and a Science/Technical subject"},
+    {"name": "Autotronics Engineering Technology", "department": "Electrical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics and a Science/Technical subject"},
+    {"name": "Diploma in Engineering Technology (Sustainable Energy & Power Distribution)", "department": "Electrical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics and a Science/Technical subject"},
+
+    {"name": "Diploma in Engineering Technology (Industrial Design)", "department": "Mechanical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits in any subjects"},
+    {"name": "Diploma in Industrial Quality Engineering Technology", "department": "Mechanical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics and a Science/Technical subject"},
+    {"name": "Diploma in Innovative Product Design Engineering Technology", "department": "Mechanical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics and a Science/Technical subject, and a pass in English"},
+    {"name": "Diploma of Mechanical Engineering Technology (CNC Precision)", "department": "Mechanical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics and a Science/Technical subject"},
+    {"name": "Diploma in Engineering Technology (Machine Tools Maintenance)", "department": "Mechanical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics and a Science/Technical subject"},
+    {"name": "Diploma of Mechanical Engineering Technology (Manufacturing)", "department": "Mechanical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics and a Science/Technical subject"},
+    {"name": "Diploma in Precision Tooling Engineering Technology", "department": "Mechanical Engineering", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics and a Science/Technical subject, and a pass in English"},
+
+    {"name": "Diploma in Software Engineering", "department": "Computer & Information", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics"},
+    {"name": "Diploma in Cyber Security Technology", "department": "Computer & Information", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics"},
+    {"name": "Diploma in Creative Multimedia", "department": "Computer & Information", "duration": "3 years (6 semesters)", "requirement": "SPM / O-Level: 3 credits including Mathematics"}
+  ],
+  "gapp": [
+    {"name": "German A-Level Preparatory Programme (GAPP)", "department": "Private and sponsored (MARA)", "duration": "20-month local course + 6-month German language in Germany", "requirement": "Private: credit in English, Mathematics, Additional Mathematics, Physics and Chemistry. MARA: grade A in these subjects and 4 other subjects"}
+  ],
+  "gufp": [
+    {"name": "GMI-UTP Foundation Programme (GUFP)", "department": "Pathway with Universiti Teknologi Petronas", "duration": "1 year", "requirement": "SPM: credit in Bahasa Melayu, English, Mathematics, Additional Mathematics, Physics and Chemistry"}
+  ]
+}
